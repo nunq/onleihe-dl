@@ -1,0 +1,12 @@
+[onleihe]
+url = <root url der onleihe instanz ohne ">
+user = 
+pass = 
+
+[adobe]
+user = 
+pass = 
+
+[rsync]
+dest = <rsync ssh target directory>
+
