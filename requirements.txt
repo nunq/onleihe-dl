@@ -1,0 +1,3 @@
+requests
+selenium
+splinter @ git+https://github.com/cobrateam/splinter@master
