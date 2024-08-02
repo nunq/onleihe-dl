@@ -1,5 +1,11 @@
 # onleihe dl
 
+**BITTE LESEN:**
+
+ich benutze dieses projekt nicht mehr, also es kann gut sein dass dinge nicht mehr funktionieren. des weiteren wurde inzwischen unter "§ 3 Digitales Ausleihen / Rechte und Grenzen" in den onleihe agbs der absatz "(5)" hinzugefügt, der das einsetzen von automatisierten ausleiheprogrammen (wie diesem) untersagt. ich übernehme keine haftung wenn euer account gesperrt wird oder es sonstliche konsequenzen gibt.
+
+---
+
 vorm ersten run muss man sich bei dem adobe drm schnickschnack anmelden:
 ```sh
 # vorher in die nix-shell
